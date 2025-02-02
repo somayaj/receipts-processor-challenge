@@ -1,11 +1,12 @@
 # Getting Started
-The receipts API rest api github project is for the take home assignment for Fetch. The API has controllers...
+The receipts API rest api github project is for the take home assignment for Fetch. 
 # Install instructions
     * Install Docker desktop or docker CLI
     * Build the image 
         - docker build -t receipts-api .
     * Run the image 
         - docker run -it --rm receipts-api
+    * OR run docker-compose up --build -d
 
 ### Reference Documentation
 For further reference, please consider the following sections:
