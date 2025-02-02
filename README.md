@@ -6,6 +6,7 @@ The receipts API rest api github project is for the take home assignment for Fet
         - docker build -t receipts-api .
     * Run the image 
         - docker run -it --rm receipts-api
+    * OR run docker-compose up --build -d
 
 ### Reference Documentation
 For further reference, please consider the following sections:
